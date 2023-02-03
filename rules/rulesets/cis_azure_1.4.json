@@ -1262,7 +1262,7 @@
 					""
 				],
 				"enabled": true,
-				"level": "medium"
+				"level": "high"
 			},
 			{
 				"args": [
@@ -1274,7 +1274,7 @@
 					"monkey365 rule"
 				],
 				"enabled": true,
-				"level": "medium"
+				"level": "high"
 			},
 			{
 				"args": [
@@ -1286,7 +1286,7 @@
 					""
 				],
 				"enabled": true,
-				"level": "medium"
+				"level": "high"
 			},
 			{
 				"args": [
@@ -1298,7 +1298,7 @@
 					"monkey365 rule"
 				],
 				"enabled": true,
-				"level": "medium"
+				"level": "high"
 			},
 			{
 				"args": [
@@ -1310,7 +1310,7 @@
 					"monkey365 rule"
 				],
 				"enabled": true,
-				"level": "medium"
+				"level": "high"
 			}
 		],
 		"azure-sql-fw-allow-all.json": [
